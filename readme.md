@@ -1,8 +1,9 @@
-# react-modern-library-boilerplate
-
-> TODO: Component Description
-
+# React-TTP
 [![NPM](https://img.shields.io/npm/v/react-ttp.svg)](https://www.npmjs.com/package/react-modern-library-boilerplate) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+Create engaging, readable, and customizable webpages from all sorts of text formats with React TextToParagraph. Whether you're pulling text from your app's backend, or you're just using Lorem text, TextToParagraph can help format text beautifully and responsively.
+
+
 
 ## Install
 
