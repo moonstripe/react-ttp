@@ -1,10 +1,10 @@
 {
   "name": "react-ttp",
-  "version": "1.4.1",
+  "version": "0.1.1",
   "description": "Text to paragraph turns minimally formatted plain text into fully-customizable paragraphs",
   "author": "Kojin Glick",
   "license": "MIT",
-  "repository": "transitive-bullshit/react-ttp",
+  "repository": "moonstripe/react-ttp",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "engines": {

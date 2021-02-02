@@ -1,7 +1,7 @@
 {
-  "name": "react-modern-library-boilerplate-example",
-  "homepage": "https://transitive-bullshit.github.io/react-modern-library-boilerplate",
-  "version": "0.0.0",
+  "name": "react-ttp-example",
+  "homepage": "https://moonstripe.herokuapp.com",
+  "version": "0.0.1",
   "private": true,
   "license": "MIT",
   "dependencies": {
