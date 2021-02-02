@@ -10,12 +10,22 @@
 npm install --save react-ttp
 ```
 
+### Roadmap to 1.0.0
+
+- [x] StringToPara Component (Support for newline separated strings)
+- [ ] TxtToPara Component (Support for .txt files)
+- [ ] RtfToPara Component (Support for .rtf files)
+
+### Roadmap beyond 1.0.0
+- [ ] DocxToPara Component (Support for .docx files)
+- [ ] Web App to help format text to be used with react-ttp
+
 ## Usage
 
 ```jsx
 import React, { Component } from 'react'
 
-import StringToPara from 'react-ttp'
+import { StringToPara } from 'react-ttp'
 
 class Example extends Component {
   constructor(props) {

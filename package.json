@@ -1,6 +1,6 @@
 {
   "name": "react-ttp",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "Text to paragraph turns minimally formatted plain text into fully-customizable paragraphs",
   "author": "Kojin Glick",
   "license": "MIT",
@@ -16,7 +16,7 @@
     "build": "rollup -c",
     "start": "rollup -c -w",
     "prepublish": "npm run build",
-    "predeploy": "cd example && npm install && npm run build",
+    "predeploy": "cd example && npm install && npm run build",œ
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
