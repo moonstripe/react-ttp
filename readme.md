@@ -42,6 +42,10 @@ class Example extends Component {
 }
 ```
 
+## Demo
+
+Try it out on CodeSandbox [here](https://codesandbox.io/s/react-ttp-example-2zh78?file=/src/App.js).
+
 ## License
 
 MIT © [moonstripe](https://github.com/moonstripe)
